@@ -1,5 +1,6 @@
 # project wide 
 __MACOSX/
+passwords.txt
 
 # Logs
 logs

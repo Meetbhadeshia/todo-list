@@ -9,10 +9,11 @@ const app = express();
 const port = 3000;
 
 //url for mongo connection
-// const uri = `mongodb+srv://meet:meet%40123@cluster0.ic27o.mongodb.net/test`;
-const client = new MongoClient(uri);
-const db = client.db("node-ejs");
-const coll = db.collection("todoList");
+//cluster's password and username here removing angular brackets 
+// const uri = `mongodb+srv://<username>:<password>@cluster0.ic27o.mongodb.net/test`;
+// const client = new MongoClient(uri);
+// const db = client.db("node-ejs");
+// const coll = db.collection("todoList");
 
 //items array for viewing items
 //we can use const for arrays and objects too. consts can be used for pushing values but not assigning it to a new array directly. for ex. const items=[1,2] , but not in further code we can do items=[3,4], we can only do items.push(3), items.push(4)
