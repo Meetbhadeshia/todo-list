@@ -10,4 +10,4 @@ This is the first documentation made by me for a project. This readme is about a
     1. Personal
     1. Work
 
-[This link](http://localhost:3000) is the basic todolist, and [this link](http://localhost:3000/work) is the work one. This todolist doesn't provide delete functionality.
+[This link](https://obscure-temple-96401.herokuapp.com/) is the basic todolist, and [this link](https://obscure-temple-96401.herokuapp.com/work) is the work one. This todolist doesn't provide delete functionality.
